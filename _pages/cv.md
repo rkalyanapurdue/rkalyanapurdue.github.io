@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. Compute Engineering, National Institute of Technology, Karnataka (NITK), Surathkal, India, 2002
+* Ph.D Computer Engineering, Purdue University, USA, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019 - present: Research Scientist, Research Computing, Purdue University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016 - 2019: Software Engineer, Research Computing, Purdue University
+
+* 2005 - 2016: Graduate Research Assistant, Purdue University
+
+* 2002 - 2005: Senior Applications Developer, Oracle India
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Cyberinfrastructure
+  * Science gateways
+  * Cloud computing
+  * Containerization (Docker, Singularity) and Deployment (Kubernetes)
+* Geospatial Science
+  * GIS tools
+  * Visualization
+  * Geospatial data processing
+* Knowledge Representation and Reasoning
+  * Interactive Theorem Proving
+  * Automated Planning
 
 Publications
 ======
@@ -48,12 +50,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Program committee member Gateways 2018, 2019 conferences
+* Guest Co-editor 2020 Science Gateways Special Issue of Concurrency and Computation: Practice and Experience (CCPE)
